@@ -1,3 +1,4 @@
 Hello, this is my first file.
 This is a new line in the file.
 This is the final version after resolving merge conflict.
+Final change by student Nikita Kuzmenkov
